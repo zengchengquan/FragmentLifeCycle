@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentLifeCycle</string>
+    <string name="host_pot">热点</string>
+    <string name="top_line">头条</string>
+</resources>
